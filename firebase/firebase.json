@@ -1,0 +1,6 @@
+﻿{
+  "hosting": {
+    "site": "notation-epa-paca",
+    "public": "public"
+  }
+}
